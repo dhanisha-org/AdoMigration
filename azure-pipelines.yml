@@ -2,7 +2,7 @@ trigger:
   - main
 
 pool:
-  vmImage: self-hosted-linux
+  vmImage: self-hosted-windows
 
 steps:
   - checkout: self
