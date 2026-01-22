@@ -2,7 +2,7 @@ trigger:
   - main
 
 pool:
-  vmImage: self-hosted-windows
+  vmImage:DESKTOP-KGMCFS2
 
 steps:
   - checkout: self
