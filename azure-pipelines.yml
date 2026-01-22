@@ -2,7 +2,7 @@ trigger:
   - main
 
 pool:
-  vmImage:DESKTOP-KGMCFS2
+  vmImage:Hosted Agent
 
 steps:
   - checkout: self
